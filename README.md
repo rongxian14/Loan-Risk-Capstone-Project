@@ -62,5 +62,5 @@ To uncover insights that help financial institutions improve their loan approval
 
 ![Dashboard Screenshot](<img width="1402" alt="image" src="https://github.com/user-attachments/assets/0fc95726-da9d-4d92-a87a-1cd03191bece" />)
 
-
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/f74cbaeb-ca98-4350-b32f-16b3a7daa29c" />
 Or view the interactive report [here](https://app.powerbi.com/groups/me/reports/fdbc1add-b16e-4625-b33b-b78075b5f5c2/ReportSection1cb4d9f8ce516c810724?experience=power-bi).
