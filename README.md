@@ -41,9 +41,7 @@ To uncover insights that help financial institutions improve their loan approval
 | **Dashboard** | A high-level summary view of key metrics and trends. |
 | **Slicer** | An interactive filter used to view data by household group, employment status, or property area. |
 | **Bar Chart** | Used to compare loan approval rates across income groups. |
-| **Pie Chart** | Displays the proportion of approved vs rejected loans. |
 | **Stacked Column Chart** | Shows the distribution of loan status segmented by employment type and credit history. |
-| **Heatmap** | Highlights regions with high or low loan default risk. |
 | **Tooltip** | A hover-over feature showing detailed metrics for specific data points. |
 
 ---
