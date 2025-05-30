@@ -1,4 +1,5 @@
 # Loan Risk Eligibility Factors Analysis
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/f74cbaeb-ca98-4350-b32f-16b3a7daa29c" />
 
 This project provides a detailed analysis of the key factors influencing loan approval and default risk using Power BI. The analysis focuses on **credit history**, **self-employment status based on household group**, and **property area based on household group**, which are critical in determining loan status (Approved: Y / Rejected: N).
 
@@ -60,7 +61,9 @@ To uncover insights that help financial institutions improve their loan approval
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1402" alt="image" src="https://github.com/user-attachments/assets/0fc95726-da9d-4d92-a87a-1cd03191bece" />)
+<img width="1422" alt="image" src="https://github.com/user-attachments/assets/2be67fd6-7cc2-4f0f-812b-56c33c16c39d" />
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/be210e30-d6a1-4143-b926-5f885cbea358" />
+<img width="1425" alt="image" src="https://github.com/user-attachments/assets/ebbc5d86-b2cd-41a7-987e-fece4f2aeb59" />
+<img width="1386" alt="image" src="https://github.com/user-attachments/assets/43a0e941-9bdd-4414-803b-e1b3e53858e8" />
 
-<img width="1402" alt="image" src="https://github.com/user-attachments/assets/f74cbaeb-ca98-4350-b32f-16b3a7daa29c" />
 Or view the interactive report [here](https://app.powerbi.com/groups/me/reports/fdbc1add-b16e-4625-b33b-b78075b5f5c2/ReportSection1cb4d9f8ce516c810724?experience=power-bi).
