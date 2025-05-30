@@ -1,4 +1,4 @@
-<img width="1402" alt="image" src="https://github.com/user-attachments/assets/f74cbaeb-ca98-4350-b32f-16b3a7daa29c" /># Loan Risk Eligibility Factors Analysis
+# Loan Risk Eligibility Factors Analysis
 
 This project provides a detailed analysis of the key factors influencing loan approval and default risk using Power BI. The analysis focuses on **credit history**, **self-employment status based on household group**, and **property area based on household group**, which are critical in determining loan status (Approved: Y / Rejected: N).
 
